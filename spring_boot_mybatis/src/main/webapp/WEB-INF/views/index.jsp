@@ -45,8 +45,7 @@
 		<a href="<c:url value='/audioFileUploadForm'/>">오디오 파일 업로드 </a><br/>
 		<a href="<c:url value='/recordFileUploadForm'/>">녹음 파일 업로드 </a><br/>
 		
-		깃 캐시 삭제
-		깃 캐시 삭제
+		
 	
 	</body>
 </html>
