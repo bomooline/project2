@@ -120,7 +120,7 @@ public class FileUploadController {
 		
 		// 1. 파일 저장 경로 설정 : C:/springWorkspace/upload/
 		// 마지막에 / 있어야 함
-		String uploadPath = "/usr/local/project/upload/"; // 서버에 올릴 때 사용 / 로컬 사용 시 주석 처리할 것
+		String uploadPath = "/usr/local/project/upload/"; 
 		
 		// 2. 원본 파일 이름 저장
 		String originalFileName = file.getOriginalFilename();
