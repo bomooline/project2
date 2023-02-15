@@ -44,8 +44,6 @@
 		<a href="<c:url value='/imageFileUploadForm'/>">이미지 파일 업로드 </a><br/>
 		<a href="<c:url value='/audioFileUploadForm'/>">오디오 파일 업로드 </a><br/>
 		<a href="<c:url value='/recordFileUploadForm'/>">녹음 파일 업로드 </a><br/>
-		
-		
 	
 	</body>
 </html>
